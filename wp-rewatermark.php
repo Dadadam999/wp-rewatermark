@@ -1,9 +1,9 @@
 <?php
 /**
  * Plugin Name: wp-rewatermark
- * Plugin URI: https://github.com/
+ * Plugin URI: https://github.com/Dadadam999/wp-rewatermark
  * Description: Плагин для изменения ватермарков изображений.
- * Version: 1.0.0
+ * Version: 1.0.1
  * Author: Bogdanov Andrey
  * Author URI: mailto://swarzone2100@yandex.ru
  *
