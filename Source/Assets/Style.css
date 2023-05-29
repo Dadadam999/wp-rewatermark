@@ -1,0 +1,10 @@
+.wrp-wrapper {
+  display: flex;
+  flex-direction: column;
+  padding: 20px;
+  gap:20px;
+}
+
+.wrp-start {
+  cursor: pointer;
+}
